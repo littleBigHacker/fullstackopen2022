@@ -1,3 +1,3 @@
 # fullstackopen2022
-By University of Helsinki
+By University of Helsinki  
 Hello World
